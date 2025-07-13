@@ -13,7 +13,18 @@ The objective of this project is to perform a detailed analysis of BlinkIT’s g
 - How does outlet size impact overall sales performance?
 - Which item type has the highest average rating?
 - Do higher-rated products generate more revenue than lower-rated ones?
+- What is the relationship between item type and sales volume?
 - Dashboard Interaction <a href=https://github.com/JayaKrishna1008/BlinkIT-Product-Price-Study/blob/main/Dashborad%20Img.png >View Dashboard</a>
+
+## Project Process
+# Data Cleaning
+
+- Removed irrelevant columns (e.g., serial numbers).
+- Renamed columns for better readability.
+- Verified data types (numeric, text).
+- Checked for missing or inconsistent values.
+- 
+
 
 
 - ## Dashboard
