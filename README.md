@@ -22,8 +22,8 @@ The objective of this project is to perform a detailed analysis of BlinkIT’s g
  -  KPI Calculation
  -  Dashboard Question Design
  -  Dashboard Planning
- -  
-- ## Dashboard
+ 
+ ## Dashboard
 ![Dashborad Img](https://github.com/JayaKrishna1008/BlinkIT-Product-Price-Study/blob/main/Dashborad%20Img.png)
 
 
