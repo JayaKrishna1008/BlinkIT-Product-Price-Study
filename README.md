@@ -13,7 +13,7 @@ The objective of this project is to perform a detailed analysis of BlinkIT’s g
 - How does outlet size impact overall sales performance?
 - Which item type has the highest average rating?
 - Do higher-rated products generate more revenue than lower-rated ones?
-- Dashboard Interaction<a href="https://github.com/JayaKrishna1008/Customer-Demographics-Bike-Purchase-Analysis/blob/main/Dashborad%20Img.png">View Dashboard</a>
+- Dashboard Interaction<a <a href="https://github.com/JayaKrishna1008/Customer-Demographics-Bike-Purchase-Analysis/blob/main/Dashborad%20Img.png"> View Dashboard</a>
 
 
 - ## Dashboard
