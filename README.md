@@ -17,23 +17,12 @@ The objective of this project is to perform a detailed analysis of BlinkIT’s g
 - Dashboard Interaction <a href=https://github.com/JayaKrishna1008/BlinkIT-Product-Price-Study/blob/main/Dashborad%20Img.png >View Dashboard</a>
 
 ## Project Process 
- Data Cleaning
-- Removed irrelevant columns (e.g., serial numbers).
-- Renamed columns for better readability.
-- Verified data types (numeric, text).
-- Checked for missing or inconsistent values.
- Exploratory Data Analysis (EDA)
-Analyzed:
-- Item types and fat content distribution.
-  Outlet sizes, locations, and types.
-  Sales, visibility, and ratings.
-
-Used pivot tables to extract patterns.
-
-
-
-
-
+ - Data Cleaning
+ -  Exploratory Data Analysis (EDA)
+ -  KPI Calculation
+ -  Dashboard Question Design
+ -  Dashboard Planning
+ -  
 - ## Dashboard
 ![Dashborad Img](https://github.com/JayaKrishna1008/BlinkIT-Product-Price-Study/blob/main/Dashborad%20Img.png)
 
