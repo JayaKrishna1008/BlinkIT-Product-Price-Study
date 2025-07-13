@@ -7,12 +7,14 @@ The objective of this project is to perform a detailed analysis of BlinkIT’s g
 -<a href=https://github.com/JayaKrishna1008/BlinkIT-Product-Price-Study/blob/main/Raw%20Data.xlsx>DataSet</a>
 
 ## Questions (KPIs)
--Which outlet has the highest total sales?
--What percentage of items have 'Low Fat' as their fat content?
--Which outlet has the highest total sales across all items?
--How does outlet size impact overall sales performance?
--Which item type has the highest average rating?
--Do higher-rated products generate more revenue than lower-rated ones?
+- Which outlet has the highest total sales?
+- What percentage of items have 'Low Fat' as their fat content?
+- Which outlet has the highest total sales across all items?
+- How does outlet size impact overall sales performance?
+- Which item type has the highest average rating?
+- Do higher-rated products generate more revenue than lower-rated ones?
+- Dashboard Interaction<a href="https://github.com/JayaKrishna1008/Customer-Demographics-Bike-Purchase-Analysis/blob/main/Dashborad%20Img.png">View Dashboard</a>
+
 
 - ## Dashboard
 ![Dashborad Img](https://github.com/JayaKrishna1008/BlinkIT-Product-Price-Study/blob/main/Dashborad%20Img.png)
