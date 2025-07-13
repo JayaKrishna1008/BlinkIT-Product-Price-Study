@@ -22,7 +22,15 @@ The objective of this project is to perform a detailed analysis of BlinkIT’s g
 - Renamed columns for better readability.
 - Verified data types (numeric, text).
 - Checked for missing or inconsistent values.
-- 
+ Exploratory Data Analysis (EDA)
+ Analyzed:
+- Item types and fat content distribution.
+- Outlet sizes, locations, and types.
+- Sales, visibility, and ratings.
+
+Used pivot tables to extract patterns.
+
+
 
 
 
