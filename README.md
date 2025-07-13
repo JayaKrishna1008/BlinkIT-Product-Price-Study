@@ -26,6 +26,9 @@ The objective of this project is to perform a detailed analysis of BlinkIT’s g
 ## Dashboard
 ![Dashborad Img](https://github.com/JayaKrishna1008/BlinkIT-Product-Price-Study/blob/main/Dashborad%20Img.png)
 
+##  Final Conclusion
+This project provided valuable insights into sales trends, product performance, and outlet behavior using BlinkIT grocery data. Key factors like item type, outlet size, and ratings were found to influence sales. The analysis supports data-driven decisions for improving online grocery operations.
+
 
 
 
