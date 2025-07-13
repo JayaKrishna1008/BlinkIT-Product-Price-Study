@@ -15,7 +15,7 @@ The objective of this project is to perform a detailed analysis of BlinkIT’s g
 -Do higher-rated products generate more revenue than lower-rated ones?
 
 - ## Dashboard
-![Dashborad Img]([https://github.com/user-attachments/assets/b838d37e-df95-4a02-9ebf-c0acf6e7ffb5](https://github.com/JayaKrishna1008/BlinkIT-Product-Price-Study/blob/main/Dashborad%20Img.png))
+![Dashborad Img]([https://github.com/user-attachments/assets/b838d37e-df95-4a02-9ebf-c0acf6e7ffb5](https://github.com/JayaKrishna1008/BlinkIT-Product-Price-Study/blob/main/Dashborad%20Img.png)
 
 
 
