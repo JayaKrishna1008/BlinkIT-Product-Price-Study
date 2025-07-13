@@ -6,6 +6,6 @@ The objective of this project is to perform a detailed analysis of BlinkIT’s g
 ## Dataset used
 -<a href=https://github.com/JayaKrishna1008/BlinkIT-Product-Price-Study/blob/main/Raw%20Data.xlsx>DataSet</a>
 
-##Questions (KPIs)
+##Questions(KPIs)
 Which outlet has the highest total sales?
 
